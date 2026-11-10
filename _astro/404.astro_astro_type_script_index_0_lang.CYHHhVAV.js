@@ -1,0 +1,1 @@
+import{_ as e,i as t,m as n}from"./motion.D-bbTGqH.js";var r=document.querySelector(`[data-nf-track]`),i=document.querySelector(`[data-nf-her] .pic`);if(!n){let n=e.timeline({delay:.3});e.set(i,{autoAlpha:0}),n.fromTo(r,{x:t?`30vw`:`110vw`},{x:0,duration:t?.6:1.1,ease:`expo.out`}).to({},{duration:.45}).set(i,{autoAlpha:1})}
